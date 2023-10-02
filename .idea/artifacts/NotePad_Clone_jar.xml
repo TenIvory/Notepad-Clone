@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NotePad_Clone:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NotePad_Clone_jar</output-path>
+    <root id="archive" name="NotePad_Clone.jar">
+      <element id="module-output" name="NotePad_Clone" />
+    </root>
+  </artifact>
+</component>
