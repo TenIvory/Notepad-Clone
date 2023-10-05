@@ -6,7 +6,7 @@ import java.io.*;
 
 public class Notepad extends JFrame implements ActionListener { //if class is not made abstract then we will need to override all methods in the interface
     //which in this case is actionlistener
-    JTextArea area = new JTextArea(); //Defined globally to be used everywhere
+    JTextArea area = new JTextArea(); //Defined globally to be used everywhere in the main class
     String text;
 
     Notepad() {

@@ -37,7 +37,7 @@ public class About  extends JFrame implements ActionListener {
 
         JButton button = new JButton("OKAY");
         button.setBounds(245, 330, 70, 30);
-        button.setBackground(Color.GRAY);
+        button.setBackground(Color.LIGHT_GRAY);
         button.addActionListener(this);
         add(button);
 
